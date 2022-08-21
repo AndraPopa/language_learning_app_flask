@@ -1,0 +1,18 @@
+[
+  {
+    "question":  "Hello",
+    "answer": "Buna"
+  },
+  {
+    "question":  "Hey",
+    "answer": "Hey"
+  },
+  {
+    "question":  "GoodBye",
+    "answer": "La revedere"
+  },
+  {
+    "question":  "Bye",
+    "answer": "Bye"
+  }
+]
